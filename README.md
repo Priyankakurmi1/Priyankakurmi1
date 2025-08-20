@@ -13,7 +13,7 @@ I am Priyanka kurmi, a passionate and dedicated frontend developer. I specialize
 - Programming Languages:Java,C++,C,JavaScript
 - Frameworks:Spring Boot,React
 - Tools & Platforms:Git,Github
-- Databases: MongoDB
+- Databases:MySQL
 - Others:REST APIs
 
 ---
