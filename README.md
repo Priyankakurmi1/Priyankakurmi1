@@ -10,11 +10,11 @@ This repository showcases my projects, skills, and achievements as a frontend de
 I am Priyanka kurmi, a passionate and dedicated frontend developer. I specialize in HTML,CSS,JS,React.js, and I enjoy building innovative solutions to real-world problems. 
 ## Skills
 
-- Programming Languages:Java,C++,C,JavaScript
-- Frameworks:Spring Boot,React
+- Programming Languages:Java,C++,C
+- Frameworks:Spring Boot
 - Tools & Platforms:Git,Github
 - Databases:MySQL
-- Others:REST APIs
+- Others:HTML,CSS,JavaScript,Rest APIs
 
 ---
 
